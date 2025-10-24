@@ -64,7 +64,7 @@ Special thanks to **@CodeAlpha** for providing this great learning opportunity a
 **Venkata Sudheer G**
 📍 Andhra Pradesh, India
 💼 Aspiring Java Full Stack Developer
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/venkata-sudheer-g)
+🔗 [LinkedIn Profile](https://www.linkedin.com/feed/update/urn:li:activity:7387546680772030464/)
 
 ---
 
